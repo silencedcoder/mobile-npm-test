@@ -1,0 +1,27 @@
+{
+  "name": "myutil",
+  "version": "1.0.0",
+  "description": "test npm module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silencedcoder/mobile-npm-test.git"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "silence",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silencedcoder/mobile-npm-test/issues"
+  },
+  "homepage": "https://github.com/silencedcoder/mobile-npm-test#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "mobx": "^3.2.1"
+  }
+}
